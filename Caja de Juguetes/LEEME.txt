@@ -1,0 +1,50 @@
+
+
+LISTADO DE JUGUETES
+-------------------
+
+- BasicTextEditor: Un editor de texto estilo notepad, pero más simple
+
+- CambioPaneles2: Cómo tener un JFrame e ir cambiando los paneles, pero con la botonera dentro de los paneles.
+
+- ClienteCorreo: Un cliente que permite enviar emails. Necesitas desproteger tu cuenta de GMAIL, así que no te olvides 
+	de volver a protegerla luego. Tienes un PDF que explica cómo.
+		
+- ClienteCorreoAdjunto: Creado por IBAI GONZALEZ [2ºDAM, Curso 2022-23], este cliente permite enviar mails con ficheros 
+	adjuntos.Necesitas desproteger tu cuenta de GMAIL, así que no te olvides de volver a protegerla luego. Tienes un 
+	PDF que explica cómo.
+		
+- CuteWebBrowser: Un pequeño navegador web que busca en Google lanzando peticiones http, recibe una página web de respuesta, 
+	y la intenta mostrar en pantalla. Sólo html, nada de css ni imágenes ni nada
+
+- DatePicker: Un componente visual para Ventanas que muestra un calendario y permite seleccionar fechas. Cuidado que hay que
+	instalar en jar en un sitio concreto (ver el javadoc)
+
+- FactoryPattern: Un ejemplo simple de la implementacion del Patrón Factoría. La ventana muestar diferentes JPanel, que son 
+	'fabricados' por la clase PanelFactory. Esta clase tiene centralizada la misión de in produciendo objetos JPanel a pedido.
+
+- GeneradorDeGrupos: Un programa muy simple para hacer grupos aleatorios en clase
+	
+- SimpleMusicPlayer: Reproduce y detiene música en formato mp3. 
+
+- HelloDude! Un chat que funciona contra BBDDD y se actualiza en tiempo real... más o menos... Permite varios usuarios desde
+	diferentes máquinas si todos atacan a la misma BBDD. Solo tiene dos usuarios: user/user y admin/admin
+	
+
+JUEGOS
+------
+
+- TextBasedAdventure: Juego de tomar decisiones. Puedes cambiar la historia retocando el fichero json. 
+
+- TextBasedAdventureAdvanced: Variante del TextBasedAdventure. Ahora, algunas decisiones requieren tirada de dados. 
+
+- TicTacToe: El típico tres en raya, modo texto. Permite uno o dos jugadores.
+
+- CriptsOfKalasangan: Segunda variante del TextBasedAdventure. Recorre un laberinto y toma decisiones con lo que te 
+	encuentras en las casillas, todo con música cañera de fondo.
+
+- La Era Oscura: Creado por LEIRE LASA [1ºDAW, Curso 2022-23], es un juego de aventura gráfica mediante texto. Tiene 
+	combates y un mapa por el que el personaje puede moverse. Además, indica niveles de vida y luminosidad (maná). 
+	
+- MataMarcianitos: Creado por Jon Urretabizkaia y reescrito por Borja Saiz (ambos Profes), un juego de navecitas 
+	que permite disparar y matar a los Invasores. Funciona por teclado: a, w, s, d, espace
