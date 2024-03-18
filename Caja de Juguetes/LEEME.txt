@@ -43,8 +43,11 @@ JUEGOS
 - CriptsOfKalasangan: Segunda variante del TextBasedAdventure. Recorre un laberinto y toma decisiones con lo que te 
 	encuentras en las casillas, todo con música cañera de fondo.
 
-- La Era Oscura: Creado por LEIRE LASA [1ºDAW, Curso 2022-23], es un juego de aventura gráfica mediante texto. Tiene 
+- La Era Oscura: Creado por Leire Lasa [1ºDAW, Curso 2022-23], es un juego de aventura gráfica mediante texto. Tiene 
 	combates y un mapa por el que el personaje puede moverse. Además, indica niveles de vida y luminosidad (maná). 
 	
 - MataMarcianitos: Creado por Jon Urretabizkaia y reescrito por Borja Saiz (ambos Profes), un juego de navecitas 
 	que permite disparar y matar a los Invasores. Funciona por teclado: a, w, s, d, espace
+	
+- SpritesEnMovimiento: Creado por Liher Chamorro [1ºDAM, Curso 2023-24], es una base para un juego de pokémon en el que puedes controlar 
+	a un jugador con animaciones (sprites) por una ventana. Funciona por teclado: a, w, s, d
