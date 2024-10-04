@@ -30,6 +30,9 @@ LISTADO DE JUGUETES
 - HelloDude! Un chat que funciona contra BBDDD y se actualiza en tiempo real... más o menos... Permite varios usuarios desde
 	diferentes máquinas si todos atacan a la misma BBDD. Solo tiene dos usuarios: user/user y admin/admin
 	
+- Youtube Player: Una mejora del SimpleMusicPlayer. Permite reproducir varias canciones de un listado, con botones de 
+	siguiente/ anterior y principio/fin de la lista
+	
 
 JUEGOS
 ------
