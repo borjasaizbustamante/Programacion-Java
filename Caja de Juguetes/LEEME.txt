@@ -24,7 +24,9 @@ LISTADO DE JUGUETES
 	'fabricados' por la clase PanelFactory. Esta clase tiene centralizada la misión de in produciendo objetos JPanel a pedido.
 
 - GeneradorDeGrupos: Un programa muy simple para hacer grupos aleatorios en clase
-	
+
+- MatrixGUI: Un efecto visual estilo Matrix Creado por Alain Guinea Jauregui [1ºDAW, Curso 2024-25]
+
 - SimpleMusicPlayer: Reproduce y detiene música en formato mp3. 
 
 - HelloDude! Un chat que funciona contra BBDDD y se actualiza en tiempo real... más o menos... Permite varios usuarios desde
