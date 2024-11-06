@@ -38,6 +38,9 @@ LISTADO DE JUGUETES
 - Sonic el Puercoespín: Creado por Ruben Serrano Orrego [1ºDAM, Curso 2023-24], genera un gif animado de Sonic y lo hace 
 	correr alrededor de una ventana 
 	
+- CoolAsciiArt: Creado por Alain Guinea Jauregui [1ºDAM, Curso 2023-24] convierte texto a Ascii Art (juego de caracteres 
+	inventado en el propio código)
+	
 
 JUEGOS
 ------
