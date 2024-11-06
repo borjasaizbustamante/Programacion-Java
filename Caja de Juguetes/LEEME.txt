@@ -35,6 +35,9 @@ LISTADO DE JUGUETES
 - Youtube Player: Una mejora del SimpleMusicPlayer. Permite reproducir varias canciones de un listado, con botones de 
 	siguiente/ anterior y principio/fin de la lista
 	
+- Sonic el Puercoespín: Creado por Ruben Serrano Orrego [1ºDAM, Curso 2023-24], genera un gif animado de Sonic y lo hace 
+	correr alrededor de una ventana 
+	
 
 JUEGOS
 ------
