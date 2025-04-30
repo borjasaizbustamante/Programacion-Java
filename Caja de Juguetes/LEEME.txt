@@ -10,7 +10,7 @@ LISTADO DE JUGUETES
 - ClienteCorreo: Un cliente que permite enviar emails. Necesitas desproteger tu cuenta de GMAIL, así que no te olvides 
 	de volver a protegerla luego. Tienes un PDF que explica cómo.
 		
-- ClienteCorreoAdjunto: Creado por IBAI GONZALEZ [2ºDAM, Curso 2022-23], este cliente permite enviar mails con ficheros 
+- ClienteCorreoAdjunto: Creado por Ibai [2ºDAM, Curso 2022-23], este cliente permite enviar mails con ficheros 
 	adjuntos.Necesitas desproteger tu cuenta de GMAIL, así que no te olvides de volver a protegerla luego. Tienes un 
 	PDF que explica cómo.
 		
@@ -25,7 +25,7 @@ LISTADO DE JUGUETES
 
 - GeneradorDeGrupos: Un programa muy simple para hacer grupos aleatorios en clase
 
-- MatrixGUI: Un efecto visual estilo Matrix Creado por Alain Guinea Jauregui [1ºDAW, Curso 2024-25]
+- MatrixGUI: Un efecto visual estilo Matrix Creado por Alain [1ºDAW, Curso 2024-25]
 
 - SimpleMusicPlayer: Reproduce y detiene música en formato mp3. 
 
@@ -35,12 +35,12 @@ LISTADO DE JUGUETES
 - Youtube Player: Una mejora del SimpleMusicPlayer. Permite reproducir varias canciones de un listado, con botones de 
 	siguiente/ anterior y principio/fin de la lista
 	
-- Sonic el Puercoespín: Creado por Ruben Serrano Orrego [1ºDAM, Curso 2023-24], genera un gif animado de Sonic y lo hace 
+- Sonic el Puercoespín: Creado por Ruben [1ºDAM, Curso 2023-24], genera un gif animado de Sonic y lo hace 
 	correr alrededor de una ventana 
 
 - Student Evaluator: Un ejemplo sencillo de Drag & Drop. Mejorable. Debería funcionar en ambos sentidos...
 	
-- CoolAsciiArt: Creado por Alain Guinea Jauregui [1ºDAM, Curso 2023-24] convierte texto a Ascii Art (juego de caracteres 
+- CoolAsciiArt: Creado por Alain [1ºDAM, Curso 2023-24] convierte texto a Ascii Art (juego de caracteres 
 	inventado en el propio código)
 	
 
@@ -56,11 +56,11 @@ JUEGOS
 - CriptsOfKalasangan: Segunda variante del TextBasedAdventure. Recorre un laberinto y toma decisiones con lo que te 
 	encuentras en las casillas, todo con música cañera de fondo.
 
-- La Era Oscura: Creado por Leire Lasa [1ºDAW, Curso 2022-23], es un juego de aventura gráfica mediante texto. Tiene 
+- La Era Oscura: Creado por Leire [1ºDAW, Curso 2022-23], es un juego de aventura gráfica mediante texto. Tiene 
 	combates y un mapa por el que el personaje puede moverse. Además, indica niveles de vida y luminosidad (maná). 
 	
-- MataMarcianitos: Creado por Jon Urretabizkaia y reescrito por Borja Saiz (ambos Profes), un juego de navecitas 
+- MataMarcianitos: Creado por Jon y reescrito por Borja (ambos Profes), un juego de navecitas 
 	que permite disparar y matar a los Invasores. Funciona por teclado: a, w, s, d, espace
 	
-- SpritesEnMovimiento: Creado por Liher Chamorro [1ºDAM, Curso 2023-24], es una base para un juego de pokémon en el que puedes controlar 
+- SpritesEnMovimiento: Creado por Liher [1ºDAM, Curso 2023-24], es una base para un juego de pokémon en el que puedes controlar 
 	a un jugador con animaciones (sprites) por una ventana. Funciona por teclado: a, w, s, d
