@@ -1,0 +1,83 @@
+package vistas;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JButton;
+import javax.swing.JTextField;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+
+/**
+ * Un ejemplo sencillo. Creamos una ventana con un boton que cambia un texto.
+ * Todo esta hecho con la ventana del Design. Solo entras al codigo para
+ * escribir el evento del boton (el IF).
+ */
+public class Ejercicio0 {
+
+	private JFrame frame;
+	private JTextField txtHey;
+
+	// No hay que tocarlo... Lo crea solo el plugin
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Ejercicio0 window = new Ejercicio0();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	// No hay que tocarlo... Lo crea solo el plugin
+	public Ejercicio0() {
+		initialize();
+	}
+
+	// Aquí el plugin va poniendo el codigo de la ventana
+	// A vecess hay que cambiar el orden de los elementos
+	// pero en general, no hay que tocar mucho...
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(100, 100, 450, 300);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+
+		txtHey = new JTextField();
+		txtHey.setText("Hey!");
+		txtHey.setBounds(170, 79, 86, 20);
+		frame.getContentPane().add(txtHey);
+		txtHey.setColumns(10);
+
+		JButton btnNewButton = new JButton("Saludo");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				//--------------------------
+				// Delegamos la tarea...
+				//--------------------------
+				
+				cambiarTexto();
+				
+			}
+		});
+		btnNewButton.setBounds(170, 171, 89, 23);
+		frame.getContentPane().add(btnNewButton);
+	}
+	
+	private void cambiarTexto() {
+		if (
+				(null != txtHey.getText()) && 
+				(!txtHey.getText().isEmpty() && 
+				(txtHey.getText().equalsIgnoreCase("Hey!")))
+			)
+			txtHey.setText("Hola Mundo!");
+		else
+			txtHey.setText("Hey!");
+		
+		System.out.println("Click!");
+	}
+}
